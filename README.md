@@ -42,7 +42,7 @@ Green zones act as checkpoints and temporarily disable enemy collision.
 ## Installation & Running Locally
 
 ```bash
-git clone https://github.com/<your-username>/graph-runner.git
+git clone https://github.com/DevAnnafi/graph-runner.git
 cd graph-runner
 python3 -m venv venv
 source venv/bin/activate
