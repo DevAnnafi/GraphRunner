@@ -42,6 +42,7 @@ Green zones act as checkpoints and temporarily disable enemy collision.
 ---
 ### Gameplay
 
+https://github.com/user-attachments/assets/32fbe2ee-a3f4-4702-b986-4c3aca7f8f4a
 
 ---
 
